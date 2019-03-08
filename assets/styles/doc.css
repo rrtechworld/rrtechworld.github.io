@@ -1,0 +1,63 @@
+/*------------------------------------------------------------------
+[Table of contents]
+
+ - Document
+
+- Project:	Seven Store - Ecommerce HTML/CSS Template
+- Version:	1.1
+- Author:  Andrey Sokoltsov
+- Profile:	http://themeforest.net/user/andreysokoltsov
+
+-------------------------------------------------------------------*/
+
+.documentation-row{
+	padding: 50px 0;
+	text-align:left;
+}
+.documentation-row p{
+	line-height: 22px;
+	font-size: 14px;
+	color: #333;
+}
+
+.documentation-row ul{
+	padding-left: 30px;
+}
+.documentation-row ul li{
+	list-style-type: disc;
+	margin: 10px 0;
+}
+.documentation-row .heading-2{
+	margin: 30px 40px;
+}
+.documentation-row .pre{
+    display: block;
+    font-size: 14px;
+    height: auto;
+    line-height: 20px;
+    margin: 0px 0;
+    padding: 3px;
+}
+
+
+.section-header{
+    margin-top: 20px;
+    display: inline-block;
+}
+
+
+.section-header .border-color {
+	margin-left:0 ;
+    margin-bottom: 20px;
+
+}
+
+
+.doc-img{
+	max-width:100%;
+	height:auto;
+	margin:20px 0;
+	padding:1px;
+	background-color:#26c9ff;
+	border:7px solid #ffd526 ;
+}
