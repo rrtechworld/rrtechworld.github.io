@@ -11,7 +11,7 @@
 	position: fixed;
 	top: 0;
 	width: 100%;
-	background-color: #26C9FF;
+	background-color: #6526ff/*#26c9ff*/;
 	border-bottom: 3px solid #ffd526;
 	z-index:1111;
 }
@@ -59,14 +59,14 @@
 	position: relative;
 	display: block;
 	padding: 21px 13px 23px;
-	color: #444;
+	color: #f5efef;
 	font-size: 14px;
 	font-weight: 700;
 	text-transform: uppercase;
 	transition: all .1s ease-out;
 }
 .yamm .nav > li > a:hover {
-	color: #26C9FF;
+	color: #6526ff/*#26c9ff*/;
 }
 .yamm .dropdown.yamm-fw .dropdown-menu {
 	left: 0;
@@ -76,7 +76,7 @@
 	position: inherit;
 }
 .yamm .navbar-toggle {
-	background: #26c9ff;
+	background: #6526ff/*#26c9ff*/;
 }
 .yamm .navbar-toggle .icon-bar {
 	background: #fff;
@@ -110,7 +110,7 @@
 		top: 0;
 		float: none;
 		color: #ffd526;
-		background-color: #26c9ff !important;
+		background-color: #6526ff/*#26c9ff*/ !important;
 	}
 	.yamm {
 		display: block;
@@ -124,6 +124,6 @@
 	}
 	.yamm .nav > li > a:hover {
 		color: #ffd526;
-		background-color: #26c9ff !important;
+		background-color: #6526ff/*#26c9ff*/ !important;
 	}
 }
